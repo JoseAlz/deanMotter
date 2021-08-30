@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/deanMotter/static/css/main.c907edfd.chunk.css",
+    "main.js": "/deanMotter/static/js/main.3a8757c3.chunk.js",
+    "main.js.map": "/deanMotter/static/js/main.3a8757c3.chunk.js.map",
+    "runtime-main.js": "/deanMotter/static/js/runtime-main.a53f803b.js",
+    "runtime-main.js.map": "/deanMotter/static/js/runtime-main.a53f803b.js.map",
+    "static/js/2.b6b133e8.chunk.js": "/deanMotter/static/js/2.b6b133e8.chunk.js",
+    "static/js/2.b6b133e8.chunk.js.map": "/deanMotter/static/js/2.b6b133e8.chunk.js.map",
+    "static/js/3.fa3c91c6.chunk.js": "/deanMotter/static/js/3.fa3c91c6.chunk.js",
+    "static/js/3.fa3c91c6.chunk.js.map": "/deanMotter/static/js/3.fa3c91c6.chunk.js.map",
+    "index.html": "/deanMotter/index.html",
+    "static/css/main.c907edfd.chunk.css.map": "/deanMotter/static/css/main.c907edfd.chunk.css.map",
+    "static/js/2.b6b133e8.chunk.js.LICENSE.txt": "/deanMotter/static/js/2.b6b133e8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a53f803b.js",
+    "static/js/2.b6b133e8.chunk.js",
+    "static/css/main.c907edfd.chunk.css",
+    "static/js/main.3a8757c3.chunk.js"
+  ]
+}
